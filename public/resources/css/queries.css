@@ -118,6 +118,10 @@
                margin: 0 0 4% 0;
           }
 
+          .hero-text-box {
+              font-size: .9rem;
+          }
+
 
           .main-nav { display: none; }
           .mobile-nav-icon {display: inline-block;}
@@ -158,7 +162,7 @@
      }
 
      .hero-text-box {
-          font-size: .65rem;
+          font-size: .8rem;
      }
 
      @media only screen and (max-width: 534px) {
@@ -195,8 +199,13 @@
                font-size: 150%;
           }
           .hero-text-box {
-               font-size: .65rem;
+              transform: translateY(-30px);
+               font-size: .735rem;
           }
+          .ui.button {
+            margin-top: 0px;
+            margin-right: 8px;
+       }
           #companyName {
                transform: translateX(-20px);
                font-size: .7rem;

@@ -18,6 +18,9 @@
   "scripts": {
     "start": "node app.js"
   },
+  "engines": {
+       "node": "9.10.0"
+ },
   "author": "Shane Granger",
   "license": "ISC"
 }

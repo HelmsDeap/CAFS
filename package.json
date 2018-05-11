@@ -10,16 +10,15 @@
     "express": "^4.16.3",
     "knock-knock-jokes": "^1.7.0",
     "mongoose": "^5.0.12",
-    "npm": "^5.8.0",
+    "npm": "^5.6.0",
     "path": "^0.12.7",
-    "semantic-ui": "^2.3.1"
   },
   "devDependencies": {},
   "scripts": {
     "start": "node app.js"
   },
   "engines": {
-       "node": "9.10.0"
+       "node": "8.9.4"
  },
   "author": "Shane Granger",
   "license": "ISC"

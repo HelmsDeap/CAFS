@@ -213,3 +213,11 @@ h3:last-child {
 #lastParagraph2 {
 margin-bottom: 26.9%;
 }
+
+
+@media only screen and (max-width: 365px) {
+.nav-title {
+    font-size: .78rem;
+}
+
+}

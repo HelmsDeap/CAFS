@@ -1,0 +1,206 @@
+body {
+    background-color: #FFFFFF;
+  }
+  .ui.menu .item img.logo {
+    margin-right: 1.5em;
+  }
+  .main.container {
+    margin-top: 7em;
+  }
+  .wireframe {
+    margin-top: 2em;
+  }
+  .ui.footer.segment {
+    margin: 2em 0em 0em;
+    padding: 2em 0em;
+  }
+
+  .centerThis {
+       text-align: center;
+ }
+
+ .smallerText {
+      font-size: .9rem;
+}
+.smallerText li {
+     margin-bottom: 5px;
+}
+
+footer {
+     text-align: center;
+}
+
+.ui.text.container {
+    max-width: 650px !important;
+}
+
+img {
+     margin-left: 12%;
+}
+
+.golf2008 img {
+     width: 500px;
+     height: 375px;
+     margin: o auto;
+}
+
+.resourceWebsites a {
+     color: black;
+     display: block;
+     margin-bottom: 20px;
+}
+
+.resourceWebsites a:hover {
+     color: #1e70bf;
+}
+
+.text h1 {
+     text-align: center;
+}
+
+.text h1:after {
+     display: block;
+     height: 2px;
+     background-color: #2185D0;
+     content: " ";
+     width: 180px;
+     margin: 0 auto;
+     margin-top: 17px;
+     margin-bottom: 30px;
+}
+
+footer a {
+     color: #4183c4;
+}
+
+.underline {
+     padding-bottom: 5px;
+     border-bottom: 1px solid #2185D0;
+}
+
+h3:last-child {
+     margin-bottom: 25px;
+}
+
+.logo {
+     border-radius: 50%;
+}
+
+.copyright {
+     font-size: .8em;
+     text-align: center;
+     margin: 0 auto;
+     background-color: #1b1c1d;
+     color: #fff;
+}
+
+.mobile-nav-icon {
+     float: right;
+     margin-top: 30px;
+     cursor: pointer;
+     display: none;
+}
+
+.mobile-nav-icon i {
+     font-size: 200%;
+     color: #fff;
+}
+
+.content li {
+     font-size: 1.25em;
+     padding-bottom: 7px;
+     font-weight: 300;
+}
+
+.content ul {
+     padding-left: 3px;
+     text-align: left;
+}
+
+.content a {
+     margin-left: 3px;
+     text-decoration: none;
+     color: white;
+}
+
+.content a:hover {
+     color: #cccccc;
+}
+
+.content li:before {
+     content: "• ";
+     color: #2185D0;
+     margin-left: 2px;
+}
+
+.content ul {
+     list-style: none;
+}
+
+.more {
+     font-size: 1.25em;
+     padding-bottom: 5px;
+     font-weight: 400;
+}
+
+.homeButton {
+     margin-top: 3px;
+     font-size: 1.25em;
+     padding-bottom: 5px;
+     font-weight: 300;
+}
+
+.facebookLink {
+     font-size: 1.1rem;
+     bottom: 10px;
+}
+
+.fa-facebook-square {
+     color: #2185D0;
+     font-size: 1.4rem;
+     margin-bottom: 3px;
+}
+
+.blueText {
+     color: #1c72b3;
+}
+
+.redText {
+     color: #eb0532;
+}
+
+.auction p {
+     font-size: 1.2rem;
+}
+.auction img{
+     margin-top: 110px;
+}
+
+.auction img:first-child {
+     margin-top: 10px;
+}
+
+.golf2008 .taller {
+     height: 375px;
+     width: auto;
+     margin-left: 30%;
+}
+
+.pageant img {
+     width: 400px;
+     height: auto;
+     /*margin-left: 20%;*/
+}
+
+.ion-calendar {
+     font-size: 1.4rem;
+     color: #fc6b87;
+}
+
+.indent {
+     margin-left: 26px;
+}
+
+#lastParagraph {
+     margin-bottom: 20.9%;
+}

@@ -1,0 +1,23 @@
+{
+  "name": "cafs",
+  "version": "1.0.0",
+  "description": "Child Abuse and Forensic Services",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cat-me": "^1.0.3",
+    "ejs": "^2.5.9",
+    "express": "^4.16.3",
+    "knock-knock-jokes": "^1.7.0",
+    "mongoose": "^5.0.12",
+    "npm": "^5.8.0",
+    "path": "^0.12.7",
+    "semantic-ui": "^2.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Shane Granger",
+  "license": "ISC"
+}

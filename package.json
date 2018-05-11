@@ -1,7 +1,7 @@
 {
   "name": "cafs",
   "version": "1.0.0",
-  "description": "Child Abuse and Forensic Services",
+  "description": "Child Abuse & Forensic Services Website",
   "main": "app.js",
   "dependencies": {
     "body-parser": "^1.18.2",
@@ -10,16 +10,26 @@
     "express": "^4.16.3",
     "knock-knock-jokes": "^1.7.0",
     "mongoose": "^5.0.12",
-    "npm": "^5.6.0",
     "path": "^0.12.7",
+    "semantic-ui": "^2.3.1",
+    "npm": "^5.8.0"
   },
   "devDependencies": {},
   "scripts": {
     "start": "node app.js"
   },
-  "engines": {
-       "node": "8.9.4"
- },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HelmsDeap/CAFS.git"
+  },
+  "keywords": [
+    "child",
+    "abuse"
+  ],
   "author": "Shane Granger",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HelmsDeap/CAFS/issues"
+  },
+  "homepage": "https://github.com/HelmsDeap/CAFS#readme"
 }

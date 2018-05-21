@@ -272,19 +272,23 @@
    
    .sticky .ui.secondary.menu .item {
         color: #555;
-        padding-top: 0px;
-        padding-bottom: 3px;
+        padding-top: 0;
+        padding-bottom: 0;
         margin-top: 0;
         margin-bottom: 0;
         -webkit-transform: translateY(-8px);
                 transform: translateY(-8px);
+   }
+
+   .sticky .mobile-nav-icon i {
+           margin-top: 0;
    }
    
    .sticky .logo {
         height: 60px;
         width: auto;
         float: left;
-        margin-top: 0px;
+        margin-top: 5px;
         border-radius: 50px;
         -webkit-transform: translateX(20px);
                 transform: translateX(20px);
@@ -304,13 +308,14 @@
    /*MOBILE NAVIGATION*/
    
    .mobile-nav-icon {
-        float: right;
-        margin-top: 2em;
         cursor: pointer;
         display: none;
    }
    
    .mobile-nav-icon i {
+        float: right;
+        margin-top: 1em;
+        cursor: pointer;
         font-size: 200%;
         color: #fff;
    }

@@ -191,6 +191,12 @@
         font-size: 16.8px;
         font-size: .84rem;
    }
+
+   /* Iphone and Mac Fix */
+   .ui.secondary.menu {
+           margin-left: 0;
+           margin-right: 0;
+   }
    .ui.secondary.menu .item {
         -ms-flex-item-align: center;
         align-self: center;

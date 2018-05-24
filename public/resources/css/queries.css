@@ -198,6 +198,10 @@
          h3 {
               font-size: 150%;
          }
+         .ui-fix{
+             font-size: 160%;
+             transform: translateX(-1px);
+         }
          .hero-text-box {
              transform: translateY(-100px);
               font-size: .71rem;

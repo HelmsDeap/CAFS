@@ -4,16 +4,15 @@
   "description": "Child Abuse & Forensic Services Website",
   "main": "app.js",
   "dependencies": {
-    "body-parser": "^1.18.2",
+    "body-parser": "^1.18.3",
     "cat-me": "^1.0.3",
-    "ejs": "^2.5.9",
+    "ejs": "^2.6.1",
     "express": "^4.16.3",
     "knock-knock-jokes": "^1.7.0",
-    "mongoose": "^5.0.12",
-    "nodemon": "^1.17.4",
-    "npm": "^5.8.0",
-    "path": "^0.12.7",
-    "semantic-ui": "^2.3.1"
+    "mongoose": "^5.1.2",
+    "nodemon": "^1.17.5",
+    "npm": "^5.10.0",
+    "path": "^0.12.7"
   },
   "devDependencies": {},
   "scripts": {

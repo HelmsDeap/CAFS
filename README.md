@@ -10,3 +10,4 @@ NOTE: Website may take 30 seconds to load because I am using a free hosting serv
 Upcoming Changes due to customer request:
 *Make sidebar always visible instead of on click
 *Change some areas of text to better reflect the Nonprofit's mission and services
+*Remake this website using React instead of JQuery
